@@ -11,9 +11,11 @@ Resources
 
 Tools
 =====
-* [jsFiddle](http://jsfiddle.net)
-* [CoffeeScript](http://jashkenas.github.com/coffee-script/)
-* [node.js](http://nodejs.org/)
+* [jsFiddle](http://jsfiddle.net) - lets you develop js/css/html side-by-side
+  to play with things
+* [CoffeeScript](http://jashkenas.github.com/coffee-script/) - language that
+  compiles to JS, nicer syntax / slightly cleaner semantics
+* [node.js](http://nodejs.org/) - fast server-side JS
 
 Cool Libraries
 ==============
